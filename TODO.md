@@ -7,6 +7,7 @@
 - [ ] Take a look at: https://github.com/dylanaraps/pash
 - [ ] Vault: https://developer.hashicorp.com/vault
 - [ ] https://github.com/Metropolis-nexus/Common-Files
+- [ ] Stricter `gofmt`: https://github.com/mvdan/gofumpt
 
 # DONE:
 

@@ -5,6 +5,8 @@
 - [ ] Install and configure `fabric`: https://github.com/danielmiessler/Fabric
 - [ ] GitHub flow: https://docs.github.com/en/get-started/using-github/github-flow
 - [ ] https://github.com/Metropolis-nexus/Common-Files
+- [ ] https://www.atlassian.com/es/software/jira
+    - [ ] https://github.com/ankitpokhrel/jira-cli
 
 # DONE:
 

@@ -1,0 +1,1 @@
+Typing `fc` and hitting enter will drop you into your `$EDITOR` and let you edit the last command. Saving will execute it. It's far easier than re-issuing the command via the terminal prompt even with `set -o vi`.
